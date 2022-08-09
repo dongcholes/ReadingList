@@ -28,6 +28,6 @@
 
 ### Java & Spring
 
-- 자바의 정석 - 남궁성
-- Effective Java  - Joshua Bloch
+- [자바의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788994492032) - 남궁성
+- [이펙티브 자바 (Effective Java)](http://www.yes24.com/Product/Goods/65551284)  - Joshua Bloch
 -

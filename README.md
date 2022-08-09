@@ -1,7 +1,18 @@
 # ToReadList
 
 
+
+
 # INTRO
+
+> 개인의 효율적인 작업과, 나아가 팀의 시너지 극대화와 구조의 개선을 끊임없이 도모하고 싶습니다.<br>
+> 그러한 개발자로 성장하기 위해 도움이 되는 책들을 탐색하고 있습니다. <br>
+> 종적인 성장과 더불어 횡적인 성장을 함께 추구하며 지식의 커버리지를 넓히고자 합니다. <br>
+> 넓힌 지식을 죽은 지식이 아닌 살아 숨쉬는 지식으로 활용하기 위해 배운 것을 글로 혹은 코드로 옮겨보는 것을 선호합니다.
+>
+> 도서 리스트는 수시로 업데이트하며, 읽은 책은 챕터 별로 기억하고싶은 구문 위주로 정리합니다.<br>
+> 참고 : https://github.com/JayFreemandev/ReadingRecord
+> 
 
 # INDEX
 
@@ -14,9 +25,14 @@
 
 # Architecture & Fundamental
 
-### 디자인 패턴
+### Design Pattern
 
-- [GoF의 디자인 패턴 | 재사용성을 지닌 객체지향 소프트웨어의 핵심요소](https://book.naver.com/bookdb/book_detail.nhn?bid=8942623) - 에릭 감마, 리처드 헬름, 랄프 존슨, 존 블리시디스
+- [GoF의 디자인 패턴 | 재사용성을 지닌 객체지향 소프트웨어의 핵심요소](http://www.yes24.com/Product/Goods/17525598) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+
+
+### For Clean and Better Codes
+- [리팩토링 | 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기,](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029) - Martin Fowler
+- [클린코드 | 클린 코드, 애자일 소프트웨어 장인 정신](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287) - Robert C. Martin
 
 ### Information Security
 

@@ -44,7 +44,7 @@
 
 - [맨먼스 미신 (The Mythical Man-Month)](http://www.yes24.com/Product/Goods/16928943) - Frederick Brooks
 
-- [빌 캠벨, 실리콘밸리의 위대한 코치 (Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell)](http://www.yes24.com/Product/Goods/91435283) - y Eric Schmidt, Jonathan Rosenberg, Alan Eagle 
+- [빌 캠벨, 실리콘밸리의 위대한 코치 (Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell)](http://www.yes24.com/Product/Goods/91435283) <br> - Eric Schmidt, Jonathan Rosenberg, Alan Eagle 
 
 # Skills & Languages
 

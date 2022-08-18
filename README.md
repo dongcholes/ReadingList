@@ -27,7 +27,7 @@
 
 ### Design Pattern
 
-- [GoF의 디자인 패턴 | 재사용성을 지닌 객체지향 소프트웨어의 핵심요소](http://www.yes24.com/Product/Goods/17525598) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+- [GoF의 디자인 패턴 | 소프트웨어 설계에 있어 공통된 문제들에 대한 표준적인 해법과 작명법을 제안](http://www.yes24.com/Product/Goods/17525598) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 
 
 ### For Clean and Better Codes

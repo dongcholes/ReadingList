@@ -29,6 +29,7 @@
 
 - [GoF의 디자인 패턴 | 소프트웨어 설계에 있어 공통된 문제들에 대한 표준적인 해법과 네이밍 제안](http://www.yes24.com/Product/Goods/17525598)
 <br> - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+- [데이터 중심의 애플리케이션 설계 | 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158390983) - Martin Kleppmann
 
 
 ### For Clean and Better Codes

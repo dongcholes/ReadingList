@@ -39,7 +39,7 @@
 
 ### Test Driven 
 - [테스트 주도 개발](http://www.yes24.com/Product/Goods/12246033) - Kent Beck
-- [테스트 주도 개발로 배우는 객체 지향 설계와 실천](http://www.yes24.com/Product/Goods/9008455) - Steven Freeman
+- [테스트 주도 개발로 배우는 객체 지향 설계와 실천](http://www.yes24.com/Product/Goods/9008455) - Steve Freeman, Nat Pryce 
 - [테스트 주도 개발 | 고품질 쾌속개발을 위한 TDD 실천법과 도구](http://www.yes24.com/Product/Goods/3908398) - 채수원
 
 ### Information Security

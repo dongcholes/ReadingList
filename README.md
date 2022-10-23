@@ -30,6 +30,7 @@
 - [GoF의 디자인 패턴 | 소프트웨어 설계에 있어 공통된 문제들에 대한 표준적인 해법과 네이밍 제안](http://www.yes24.com/Product/Goods/17525598)
 <br> - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 - [데이터 중심의 애플리케이션 설계 | 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158390983) - Martin Kleppmann
+- [가상 면접 사례로 배우는 대규모 시스템 설계 기초 | 단순한 시스템 설계에서 출발하여 시스템 확장에 따른 이슈와 요구 사항을 파악하면서 대규모 시스템을 구축해 나가는 방법](http://www.yes24.com/Product/Goods/102819435) - Alex Xu
 
 
 ### For Clean and Better Codes
@@ -60,4 +61,4 @@
 
 - [자바의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788994492032) - 남궁성
 - [이펙티브 자바 (Effective Java)](http://www.yes24.com/Product/Goods/65551284)  - Joshua Bloch
--
+- [모던 자바 인 액션 (Modern Java In Action](http://www.yes24.com/Product/Goods/77125987) - Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
